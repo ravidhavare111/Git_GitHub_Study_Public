@@ -7,5 +7,9 @@ public class DemoForGit {
         System.out.println("Let's learn Java together!");
         System.out.println("This is a simple Java program to demonstrate basic syntax.");
     }
+
+    public void demoMethod() {
+        System.out.println("This is a method in the DemoForGit class.");
+    }
     
 }
