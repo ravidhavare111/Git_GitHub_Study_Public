@@ -8,8 +8,9 @@ public class DemoForGit {
         System.out.println("This is a simple Java program to demonstrate basic syntax.");
     }
 
-    public void demoMethod() {
+    public int demoMethod(int a) {
         System.out.println("This is a method in the DemoForGit class.");
+        return a * a;
     }
     
 }
