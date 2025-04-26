@@ -9,4 +9,8 @@ public class HelloFile {
         public void printName() {
             System.out.println(getName());
         }
+
+        String getAge() {
+            return "25";
+        }
 }
