@@ -13,4 +13,8 @@ public class HelloFile {
         String getAge() {
             return "25";
         }
+
+        void newFeature() {
+            System.out.println("New Feature");
+        }
 }
