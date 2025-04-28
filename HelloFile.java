@@ -24,4 +24,7 @@ public class HelloFile {
         void newFeature3() {
             System.out.println("New Feature 3");
         }
+        void newFeature4() {
+            System.out.println("New Feature 4");
+        }
 }
