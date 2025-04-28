@@ -33,6 +33,10 @@ public class LoginMethod {
         return "LoginMethod [username=" + username + ", password=" + password + ", email=" + email + ", phoneNumber="
                 + phoneNumber + "]";
     }
+    public LoginMethod() {
+    }
+
+    
 
     
 
